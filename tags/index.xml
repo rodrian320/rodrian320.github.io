@@ -6,52 +6,7 @@
     <description>Recent content in Tags on Rodriannn Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Nov 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://rodrian320.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>agile</title>
-      <link>https://rodrian320.github.io/tags/agile/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://rodrian320.github.io/tags/agile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Continuous Delivery</title>
-      <link>https://rodrian320.github.io/tags/continuous-delivery/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://rodrian320.github.io/tags/continuous-delivery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Continuous Integration</title>
-      <link>https://rodrian320.github.io/tags/continuous-integration/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://rodrian320.github.io/tags/continuous-integration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Culture</title>
-      <link>https://rodrian320.github.io/tags/culture/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://rodrian320.github.io/tags/culture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DevOps</title>
-      <link>https://rodrian320.github.io/tags/devops/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://rodrian320.github.io/tags/devops/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 01 Jan 2009 14:09:10 +0000</lastBuildDate><atom:link href="https://rodrian320.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>apache</title>
       <link>https://rodrian320.github.io/tags/apache/</link>
@@ -98,6 +53,78 @@
     </item>
     
     <item>
+      <title>FPS</title>
+      <link>https://rodrian320.github.io/tags/fps/</link>
+      <pubDate>Thu, 01 Jan 1970 08:33:43 +0800</pubDate>
+      
+      <guid>https://rodrian320.github.io/tags/fps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HCI</title>
+      <link>https://rodrian320.github.io/tags/hci/</link>
+      <pubDate>Thu, 01 Jan 1970 08:33:43 +0800</pubDate>
+      
+      <guid>https://rodrian320.github.io/tags/hci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning</title>
+      <link>https://rodrian320.github.io/tags/reinforcement-learning/</link>
+      <pubDate>Thu, 01 Jan 1970 08:33:43 +0800</pubDate>
+      
+      <guid>https://rodrian320.github.io/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RTS</title>
+      <link>https://rodrian320.github.io/tags/rts/</link>
+      <pubDate>Thu, 01 Jan 1970 08:33:43 +0800</pubDate>
+      
+      <guid>https://rodrian320.github.io/tags/rts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unity</title>
+      <link>https://rodrian320.github.io/tags/unity/</link>
+      <pubDate>Thu, 01 Jan 1970 08:33:43 +0800</pubDate>
+      
+      <guid>https://rodrian320.github.io/tags/unity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VR</title>
+      <link>https://rodrian320.github.io/tags/vr/</link>
+      <pubDate>Thu, 01 Jan 1970 08:33:43 +0800</pubDate>
+      
+      <guid>https://rodrian320.github.io/tags/vr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2.5D</title>
+      <link>https://rodrian320.github.io/tags/2.5d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrian320.github.io/tags/2.5d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2D</title>
+      <link>https://rodrian320.github.io/tags/2d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrian320.github.io/tags/2d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>C#</title>
       <link>https://rodrian320.github.io/tags/c#/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -112,15 +139,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rodrian320.github.io/tags/c&#43;&#43;/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CI/CD pipelines</title>
-      <link>https://rodrian320.github.io/tags/ci/cd-pipelines/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rodrian320.github.io/tags/ci/cd-pipelines/</guid>
       <description></description>
     </item>
     
@@ -152,6 +170,15 @@
     </item>
     
     <item>
+      <title>PlasticSCM</title>
+      <link>https://rodrian320.github.io/tags/plasticscm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrian320.github.io/tags/plasticscm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ps</title>
       <link>https://rodrian320.github.io/tags/ps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -161,11 +188,20 @@
     </item>
     
     <item>
-      <title>Unity</title>
-      <link>https://rodrian320.github.io/tags/unity/</link>
+      <title>PVE</title>
+      <link>https://rodrian320.github.io/tags/pve/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rodrian320.github.io/tags/unity/</guid>
+      <guid>https://rodrian320.github.io/tags/pve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PVP</title>
+      <link>https://rodrian320.github.io/tags/pvp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrian320.github.io/tags/pvp/</guid>
       <description></description>
     </item>
     
@@ -175,6 +211,69 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rodrian320.github.io/tags/visual-studio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>即时策略</title>
+      <link>https://rodrian320.github.io/tags/%E5%8D%B3%E6%97%B6%E7%AD%96%E7%95%A5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrian320.github.io/tags/%E5%8D%B3%E6%97%B6%E7%AD%96%E7%95%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>国风</title>
+      <link>https://rodrian320.github.io/tags/%E5%9B%BD%E9%A3%8E/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrian320.github.io/tags/%E5%9B%BD%E9%A3%8E/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>塔防</title>
+      <link>https://rodrian320.github.io/tags/%E5%A1%94%E9%98%B2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrian320.github.io/tags/%E5%A1%94%E9%98%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>复古</title>
+      <link>https://rodrian320.github.io/tags/%E5%A4%8D%E5%8F%A4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrian320.github.io/tags/%E5%A4%8D%E5%8F%A4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>模拟器</title>
+      <link>https://rodrian320.github.io/tags/%E6%A8%A1%E6%8B%9F%E5%99%A8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrian320.github.io/tags/%E6%A8%A1%E6%8B%9F%E5%99%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>解密</title>
+      <link>https://rodrian320.github.io/tags/%E8%A7%A3%E5%AF%86/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrian320.github.io/tags/%E8%A7%A3%E5%AF%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>解谜</title>
+      <link>https://rodrian320.github.io/tags/%E8%A7%A3%E8%B0%9C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrian320.github.io/tags/%E8%A7%A3%E8%B0%9C/</guid>
       <description></description>
     </item>
     

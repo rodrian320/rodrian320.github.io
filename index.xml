@@ -8,22 +8,41 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://rodrian320.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2023UGDAP大学生寒假开发实训 - Bumble Monster</title>
+      <title>2023 GWB参赛作品 - 疾刃</title>
+      <link>https://rodrian320.github.io/projects/contributions/%E7%96%BE%E5%88%83/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrian320.github.io/projects/contributions/%E7%96%BE%E5%88%83/</guid>
+      <description>游戏开发中&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>2023 SCU Minigame课程开发项目 - OS Override</title>
+      <link>https://rodrian320.github.io/projects/contributions/os-override/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrian320.github.io/projects/contributions/os-override/</guid>
+      <description>在《OS Override》中用APP抵御病毒！下载各式各样的APP，使用它们的特殊能力！随着时间流逝，敌人的进攻愈发猛烈！合理安排你手机中的资源，你可以坚持多久？
+项目得到了腾讯和网易的老师的指导。</description>
+    </item>
+    
+    <item>
+      <title>2023 UGDAP大学生寒假开发实训 - Bumble Monster</title>
       <link>https://rodrian320.github.io/projects/contributions/bumbel-monster/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rodrian320.github.io/projects/contributions/bumbel-monster/</guid>
-      <description>Bumble Monster是一款硬核的冒险闯关解密类型的游戏，玩家将扮演一只小短腿的小怪物，它撞到墙才会停下来。玩家需要通过自己的聪明才智，尽量用最短的步数到达终点。 本次实训的时间为1.8-1.13。 团队共有5位成员。个人负责了部分程序，场景以及美术。</description>
+      <description>Bumble Monster是一款硬核的冒险闯关解密类型的游戏，玩家将扮演一只小短腿的小怪物，它撞到墙才会停下来。玩家需要通过自己的聪明才智，尽量用最短的步数到达终点。 感谢方老师的指导。</description>
     </item>
     
     <item>
-      <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
-      <link>https://rodrian320.github.io/publications/alldaydevops/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <title>基于强化学习、VR游戏探索人机交互</title>
+      <link>https://rodrian320.github.io/publications/rl-hci/</link>
+      <pubDate>Thu, 01 Jan 1970 08:33:43 +0800</pubDate>
       
-      <guid>https://rodrian320.github.io/publications/alldaydevops/</guid>
-      <description>This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
-Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description>
+      <guid>https://rodrian320.github.io/publications/rl-hci/</guid>
+      <description>开发中&amp;hellip;
+目前进度：完成了最基础的小demo,可以利用VR设备进行游玩。后续会加入强化学习。 </description>
     </item>
     
     <item>
@@ -32,7 +51,8 @@ Don’t mandate DevOps. Give employees the chance to master their discipline wit
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rodrian320.github.io/projects/contributions/%E7%9B%B4%E5%AD%90%E5%8D%9A%E5%A3%AB/</guid>
-      <description>这是一款rpg文字解密游戏。游戏机制：玩家每次可以选择一个方向行走，但每一次都会走到无法前进，当玩家到带有属性的墙时，玩家会携带该属性，并获得该属性带来的能力，而属性有覆盖效果。 本次Gamejam的主题为”传“。 个人分工：美术。</description>
+      <description>这是一款rpg文字解密游戏。游戏机制：玩家每次可以选择一个方向行走，但每一次都会走到无法前进，当玩家到带有属性的墙时，玩家会携带该属性，并获得该属性带来的能力，而属性有覆盖效果。
+本次Gamejam的主题为”传“。</description>
     </item>
     
     <item>

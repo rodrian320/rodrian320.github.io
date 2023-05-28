@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://rodrian320.github.io/publications/</loc>
-    <lastmod>2020-01-07T16:47:30+00:00</lastmod>
+    <lastmod>1970-01-01T08:33:43+08:00</lastmod>
     <priority>0.6</priority>
   </url><url>
     <loc>https://rodrian320.github.io/projects/creations/</loc>
@@ -14,15 +14,21 @@
     <lastmod>2020-01-07T16:49:15+00:00</lastmod>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://rodrian320.github.io/projects/contributions/bumbel-monster/</loc>
+    <loc>https://rodrian320.github.io/projects/contributions/%E7%96%BE%E5%88%83/</loc>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://rodrian320.github.io/publications/alldaydevops/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+    <loc>https://rodrian320.github.io/projects/contributions/os-override/</loc>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://rodrian320.github.io/projects/contributions/bumbel-monster/</loc>
+    <priority>0.3</priority>
+  </url><url>
+    <loc>https://rodrian320.github.io/publications/rl-hci/</loc>
+    <lastmod>1970-01-01T08:33:43+08:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>https://rodrian320.github.io/projects/contributions/%E7%9B%B4%E5%AD%90%E5%8D%9A%E5%A3%AB/</loc>
-    <priority>0.8</priority>
+    <priority>0.2</priority>
   </url><url>
     <loc>https://rodrian320.github.io/projects/</loc>
     <lastmod>2020-01-07T16:49:15+00:00</lastmod>
@@ -31,24 +37,6 @@
     <loc>https://rodrian320.github.io/</loc>
     <lastmod>2018-02-10T18:56:13-05:00</lastmod>
     <priority>1</priority>
-  </url><url>
-    <loc>https://rodrian320.github.io/tags/agile/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rodrian320.github.io/tags/continuous-delivery/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rodrian320.github.io/tags/continuous-integration/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rodrian320.github.io/tags/culture/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rodrian320.github.io/tags/devops/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rodrian320.github.io/tags/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rodrian320.github.io/tags/apache/</loc>
     <lastmod>2009-01-01T14:09:10+00:00</lastmod>
@@ -68,16 +56,39 @@
     <loc>https://rodrian320.github.io/tags/ssl/</loc>
     <lastmod>2009-01-01T14:09:10+00:00</lastmod>
   </url><url>
+    <loc>https://rodrian320.github.io/tags/</loc>
+    <lastmod>2009-01-01T14:09:10+00:00</lastmod>
+  </url><url>
     <loc>https://rodrian320.github.io/tags/web-development/</loc>
     <lastmod>2009-01-01T14:09:10+00:00</lastmod>
   </url><url>
+    <loc>https://rodrian320.github.io/tags/fps/</loc>
+    <lastmod>1970-01-01T08:33:43+08:00</lastmod>
+  </url><url>
+    <loc>https://rodrian320.github.io/tags/hci/</loc>
+    <lastmod>1970-01-01T08:33:43+08:00</lastmod>
+  </url><url>
+    <loc>https://rodrian320.github.io/tags/reinforcement-learning/</loc>
+    <lastmod>1970-01-01T08:33:43+08:00</lastmod>
+  </url><url>
+    <loc>https://rodrian320.github.io/tags/rts/</loc>
+    <lastmod>1970-01-01T08:33:43+08:00</lastmod>
+  </url><url>
+    <loc>https://rodrian320.github.io/tags/unity/</loc>
+    <lastmod>1970-01-01T08:33:43+08:00</lastmod>
+  </url><url>
+    <loc>https://rodrian320.github.io/tags/vr/</loc>
+    <lastmod>1970-01-01T08:33:43+08:00</lastmod>
+  </url><url>
+    <loc>https://rodrian320.github.io/tags/2.5d/</loc>
+  </url><url>
     <loc>https://rodrian320.github.io/projects/creations/ant-war/</loc>
+  </url><url>
+    <loc>https://rodrian320.github.io/tags/2d/</loc>
   </url><url>
     <loc>https://rodrian320.github.io/tags/c#/</loc>
   </url><url>
     <loc>https://rodrian320.github.io/tags/c&#43;&#43;/</loc>
-  </url><url>
-    <loc>https://rodrian320.github.io/tags/ci/cd-pipelines/</loc>
   </url><url>
     <loc>https://rodrian320.github.io/tags/console-game/</loc>
   </url><url>
@@ -85,15 +96,33 @@
   </url><url>
     <loc>https://rodrian320.github.io/tags/gitee/</loc>
   </url><url>
+    <loc>https://rodrian320.github.io/tags/plasticscm/</loc>
+  </url><url>
     <loc>https://rodrian320.github.io/tags/ps/</loc>
+  </url><url>
+    <loc>https://rodrian320.github.io/tags/pve/</loc>
+  </url><url>
+    <loc>https://rodrian320.github.io/tags/pvp/</loc>
   </url><url>
     <loc>https://rodrian320.github.io/search/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://rodrian320.github.io/tags/unity/</loc>
-  </url><url>
     <loc>https://rodrian320.github.io/tags/visual-studio/</loc>
   </url><url>
+    <loc>https://rodrian320.github.io/tags/%E5%8D%B3%E6%97%B6%E7%AD%96%E7%95%A5/</loc>
+  </url><url>
+    <loc>https://rodrian320.github.io/tags/%E5%9B%BD%E9%A3%8E/</loc>
+  </url><url>
+    <loc>https://rodrian320.github.io/tags/%E5%A1%94%E9%98%B2/</loc>
+  </url><url>
     <loc>https://rodrian320.github.io/projects/creations/pong/</loc>
+  </url><url>
+    <loc>https://rodrian320.github.io/tags/%E5%A4%8D%E5%8F%A4/</loc>
+  </url><url>
+    <loc>https://rodrian320.github.io/tags/%E6%A8%A1%E6%8B%9F%E5%99%A8/</loc>
+  </url><url>
+    <loc>https://rodrian320.github.io/tags/%E8%A7%A3%E5%AF%86/</loc>
+  </url><url>
+    <loc>https://rodrian320.github.io/tags/%E8%A7%A3%E8%B0%9C/</loc>
   </url>
 </urlset>
