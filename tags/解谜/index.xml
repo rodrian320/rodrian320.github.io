@@ -7,12 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://rodrian320.github.io/tags/%E8%A7%A3%E8%B0%9C/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2023 NUS SoC Summer Workshop - Seek My Sheep</title>
+      <link>https://rodrian320.github.io/projects/contributions/seek-my-sheep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrian320.github.io/projects/contributions/seek-my-sheep/</guid>
+      <description>当一位老人的记忆开始衰退
+时间对他们而言不再是线性的
+现实与虚构的界墙开始瓦解 相比于身体，他们的精神或许显得更加自由
+A story about Memory, Existence and Life. 宣传视频链接: https://b23.tv/AEQJfVI </description>
+    </item>
+    
+    <item>
       <title>2023 UGDAP大学生寒假开发实训 - Bumble Monster</title>
       <link>https://rodrian320.github.io/projects/contributions/bumbel-monster/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rodrian320.github.io/projects/contributions/bumbel-monster/</guid>
-      <description>Bumble Monster是一款硬核的冒险闯关解密类型的游戏，玩家将扮演一只小短腿的小怪物，它撞到墙才会停下来。玩家需要通过自己的聪明才智，尽量用最短的步数到达终点。 感谢方老师的指导。</description>
+      <description>Bumble Monster是一款硬核的冒险闯关解密类型的游戏，玩家将扮演一只小短腿的小怪物，它撞到墙才会停下来。玩家需要通过自己的聪明才智，尽量用最短的步数到达终点。 非常感谢方老师的指导。</description>
     </item>
     
   </channel>

@@ -8,12 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Jan 1970 08:33:43 +0800</lastBuildDate><atom:link href="https://rodrian320.github.io/tags/unity/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2023 GWB参赛作品 - 疾刃</title>
-      <link>https://rodrian320.github.io/projects/contributions/%E7%96%BE%E5%88%83/</link>
+      <title>2023 NUS SoC Summer Workshop - Seek My Sheep</title>
+      <link>https://rodrian320.github.io/projects/contributions/seek-my-sheep/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rodrian320.github.io/projects/contributions/%E7%96%BE%E5%88%83/</guid>
-      <description>游戏开发中&amp;hellip;</description>
+      <guid>https://rodrian320.github.io/projects/contributions/seek-my-sheep/</guid>
+      <description>当一位老人的记忆开始衰退
+时间对他们而言不再是线性的
+现实与虚构的界墙开始瓦解 相比于身体，他们的精神或许显得更加自由
+A story about Memory, Existence and Life. 宣传视频链接: https://b23.tv/AEQJfVI </description>
     </item>
     
     <item>
@@ -23,7 +26,7 @@
       
       <guid>https://rodrian320.github.io/projects/contributions/os-override/</guid>
       <description>在《OS Override》中用APP抵御病毒！下载各式各样的APP，使用它们的特殊能力！随着时间流逝，敌人的进攻愈发猛烈！合理安排你手机中的资源，你可以坚持多久？
-项目得到了腾讯和网易的老师的指导。</description>
+非常感谢腾讯和网易的老师的指导。</description>
     </item>
     
     <item>
@@ -32,7 +35,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rodrian320.github.io/projects/contributions/bumbel-monster/</guid>
-      <description>Bumble Monster是一款硬核的冒险闯关解密类型的游戏，玩家将扮演一只小短腿的小怪物，它撞到墙才会停下来。玩家需要通过自己的聪明才智，尽量用最短的步数到达终点。 感谢方老师的指导。</description>
+      <description>Bumble Monster是一款硬核的冒险闯关解密类型的游戏，玩家将扮演一只小短腿的小怪物，它撞到墙才会停下来。玩家需要通过自己的聪明才智，尽量用最短的步数到达终点。 非常感谢方老师的指导。</description>
+    </item>
+    
+    <item>
+      <title>2023 待参赛作品 - 疾刃</title>
+      <link>https://rodrian320.github.io/projects/contributions/%E7%96%BE%E5%88%83/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrian320.github.io/projects/contributions/%E7%96%BE%E5%88%83/</guid>
+      <description>游戏开发中&amp;hellip;</description>
     </item>
     
     <item>
@@ -62,6 +74,15 @@
       
       <guid>https://rodrian320.github.io/projects/creations/ant-war/</guid>
       <description>Ant War是一款益智策略小游戏。你将用有操控🐜的神奇能力，指挥蚂蚁大军在空岛之间穿梭，但要小心敌对的蚂蚁势力也会派出蚂蚁占领你的领地。出发，去扎根每一座空岛吧！ 本次Global Gam Jam的主题为Roots。 个人solo开发作品。</description>
+    </item>
+    
+    <item>
+      <title>2023 吉比特未来游戏制作人大赛 - 方块旅途（A Cube Hike)</title>
+      <link>https://rodrian320.github.io/projects/creations/a-cube-hike/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrian320.github.io/projects/creations/a-cube-hike/</guid>
+      <description>方块旅途一款线性解密游戏。你将操作三个方块和一只猫猫合作冒险，探索岛屿，最终攀上山峰。 由于缺乏美术，最终画面显得简陋。</description>
     </item>
     
   </channel>
