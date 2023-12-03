@@ -2,17 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI &amp; Game Playground on Rodriannn Webb</title>
-    <link>https://rodrian320.github.io/publications/</link>
+    <link>http://rodrian320.github.io/publications/</link>
     <description>Recent content in AI &amp; Game Playground on Rodriannn Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jan 1970 08:33:43 +0800</lastBuildDate><atom:link href="https://rodrian320.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jan 1970 08:33:43 +0800</lastBuildDate><atom:link href="http://rodrian320.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>基于强化学习、VR游戏探索人机交互</title>
-      <link>https://rodrian320.github.io/publications/rl-hci/</link>
+      <title>基于GAN和多模态情绪识别的抽象画情感研究</title>
+      <link>http://rodrian320.github.io/publications/stylegan/</link>
       <pubDate>Thu, 01 Jan 1970 08:33:43 +0800</pubDate>
       
-      <guid>https://rodrian320.github.io/publications/rl-hci/</guid>
+      <guid>http://rodrian320.github.io/publications/stylegan/</guid>
+      <description>基于StyleGAN3训练了自己的模型，可以生成抽象艺术作品（图片或视频）。我们的部分视频在“参与和表征：第五届中国社区美育计划展览”中展出，作品名为《流变的意识》。 什么样的图像会更让我们被触动？图像中的美学构成与审美情感有何关联？本作品依托四川大学美术馆《艺术X设计X心理》跨学科实验艺术项目的心理学研究实验结果，将具有不同美学构成的抽象画与情感相连接，制作三部具有连续美学构成变化的影像，并与实验结果中的情感效价相对应，分别探索线条、构成、色彩对审美情感及意识的影响，试图表现情感与意识在图像中的流变。</description>
+    </item>
+    
+    <item>
+      <title>基于强化学习、VR游戏探索人机交互</title>
+      <link>http://rodrian320.github.io/publications/rl-hci/</link>
+      <pubDate>Thu, 01 Jan 1970 08:33:43 +0800</pubDate>
+      
+      <guid>http://rodrian320.github.io/publications/rl-hci/</guid>
       <description>开发中&amp;hellip;
 目前进度：完成了最基础的小demo,可以利用VR设备进行游玩。后续会加入强化学习。 </description>
     </item>

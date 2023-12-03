@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3D on Rodriannn Webb</title>
-    <link>https://rodrian320.github.io/tags/3d/</link>
+    <link>http://rodrian320.github.io/tags/3d/</link>
     <description>Recent content in 3D on Rodriannn Webb</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://rodrian320.github.io/tags/3d/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://rodrian320.github.io/tags/3d/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023 吉比特未来游戏制作人大赛 - 方块旅途（A Cube Hike)</title>
-      <link>https://rodrian320.github.io/projects/creations/a-cube-hike/</link>
+      <link>http://rodrian320.github.io/projects/creations/a-cube-hike/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rodrian320.github.io/projects/creations/a-cube-hike/</guid>
+      <guid>http://rodrian320.github.io/projects/creations/a-cube-hike/</guid>
       <description>方块旅途一款线性解密游戏。你将操作三个方块和一只猫猫合作冒险，探索岛屿，最终攀上山峰。 由于缺乏美术，最终画面显得简陋。</description>
     </item>
     

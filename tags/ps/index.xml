@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ps on Rodriannn Webb</title>
-    <link>https://rodrian320.github.io/tags/ps/</link>
+    <link>http://rodrian320.github.io/tags/ps/</link>
     <description>Recent content in Ps on Rodriannn Webb</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://rodrian320.github.io/tags/ps/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://rodrian320.github.io/tags/ps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2021三教杯Gamejam - 直子博士的孤独之心研究所</title>
-      <link>https://rodrian320.github.io/projects/contributions/%E7%9B%B4%E5%AD%90%E5%8D%9A%E5%A3%AB/</link>
+      <link>http://rodrian320.github.io/projects/contributions/%E7%9B%B4%E5%AD%90%E5%8D%9A%E5%A3%AB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rodrian320.github.io/projects/contributions/%E7%9B%B4%E5%AD%90%E5%8D%9A%E5%A3%AB/</guid>
+      <guid>http://rodrian320.github.io/projects/contributions/%E7%9B%B4%E5%AD%90%E5%8D%9A%E5%A3%AB/</guid>
       <description>这是一款rpg文字解密游戏。游戏机制：玩家每次可以选择一个方向行走，但每一次都会走到无法前进，当玩家到带有属性的墙时，玩家会携带该属性，并获得该属性带来的能力，而属性有覆盖效果。
 本次Gamejam的主题为”传“。</description>
     </item>
     
     <item>
       <title>2023 Global Game Jam - Ant War</title>
-      <link>https://rodrian320.github.io/projects/creations/ant-war/</link>
+      <link>http://rodrian320.github.io/projects/creations/ant-war/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rodrian320.github.io/projects/creations/ant-war/</guid>
-      <description>Ant War是一款益智策略小游戏。你将用有操控🐜的神奇能力，指挥蚂蚁大军在空岛之间穿梭，但要小心敌对的蚂蚁势力也会派出蚂蚁占领你的领地。出发，去扎根每一座空岛吧！ 本次Global Gam Jam的主题为Roots。 个人solo开发作品。</description>
+      <guid>http://rodrian320.github.io/projects/creations/ant-war/</guid>
+      <description>Ant War是一款益智策略小游戏。你将用有操控🐜的神奇能力，指挥蚂蚁大军在空岛之间穿梭，但要小心敌对的蚂蚁势力也会派出蚂蚁占领你的领地。出发，去扎根每一座空岛吧！ 本次Global Game Jam的主题为Roots。 个人solo开发作品。</description>
     </item>
     
   </channel>

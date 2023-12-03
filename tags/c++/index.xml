@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C&#43;&#43; on Rodriannn Webb</title>
-    <link>https://rodrian320.github.io/tags/c&#43;&#43;/</link>
+    <link>http://rodrian320.github.io/tags/c&#43;&#43;/</link>
     <description>Recent content in C&#43;&#43; on Rodriannn Webb</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://rodrian320.github.io/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://rodrian320.github.io/tags/c++/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>复刻与变化雅达利经典游戏 - PONG 2.0</title>
-      <link>https://rodrian320.github.io/projects/creations/pong/</link>
+      <link>http://rodrian320.github.io/projects/creations/pong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rodrian320.github.io/projects/creations/pong/</guid>
+      <guid>http://rodrian320.github.io/projects/creations/pong/</guid>
       <description>这是基于PONG的基础游戏机制加入了一些新的机制：商店-技能系统。P1，P2可以在商店中花费分数购买技能。技能部分作用于自身，部分作用于对手。 基于EasyX图形库。</description>
     </item>
     
