@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PlasticSCM on Rodriannn Webb</title>
-    <link>http://rodrian320.github.io/tags/plasticscm/</link>
+    <link>https://rodrian320.github.io/tags/plasticscm/</link>
     <description>Recent content in PlasticSCM on Rodriannn Webb</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://rodrian320.github.io/tags/plasticscm/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://rodrian320.github.io/tags/plasticscm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023 吉比特高校游戏开发联盟GameJam挑战赛 - 接招吧，坏猫猫</title>
-      <link>http://rodrian320.github.io/projects/contributions/badcat/</link>
+      <link>https://rodrian320.github.io/projects/contributions/badcat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rodrian320.github.io/projects/contributions/badcat/</guid>
-      <description>在游戏中，玩家将扮演一位保护小镇的史莱姆，在躲避敌人的子弹的同时吸收子弹，在消耗一定时间的转化后，从吸收的方向推动出去，击退敌人。玩家需要将每关的敌人全部消灭，以此来进入下一关，在完成一关时可以从随机技能中选择其一进行升级。</description>
+      <guid>https://rodrian320.github.io/projects/contributions/badcat/</guid>
+      <description>在游戏中，玩家将扮演一位保护小镇的史莱姆，在躲避敌人的子弹的同时吸收子弹，在消耗一定时间的转化后，从吸收的方向推动出去，击退敌人。消灭敌人以一定概率掉落道具。玩家需要将每关的敌人全部消灭，以此来进入下一关，在完成一关时可以从随机技能中选择其一进行升级。</description>
     </item>
     
     <item>
       <title>2023 待参赛作品 - 疾刃</title>
-      <link>http://rodrian320.github.io/projects/contributions/%E7%96%BE%E5%88%83/</link>
+      <link>https://rodrian320.github.io/projects/contributions/%E7%96%BE%E5%88%83/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rodrian320.github.io/projects/contributions/%E7%96%BE%E5%88%83/</guid>
+      <guid>https://rodrian320.github.io/projects/contributions/%E7%96%BE%E5%88%83/</guid>
       <description>游戏开发中&amp;hellip;</description>
     </item>
     
