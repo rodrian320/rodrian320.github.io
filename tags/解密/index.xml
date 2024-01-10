@@ -25,5 +25,14 @@
       <description>方块旅途一款线性解密游戏。你将操作三个方块和一只猫猫合作冒险，探索岛屿，最终攀上山峰。 由于缺乏美术，最终画面显得简陋。</description>
     </item>
     
+    <item>
+      <title>2023 课题组UI Jam- There is no pinball</title>
+      <link>https://rodrian320.github.io/projects/creations/pinball/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrian320.github.io/projects/creations/pinball/</guid>
+      <description>打砖块，但是解谜。体验不一样的UI交互方式。最终获得了第一名。</description>
+    </item>
+    
   </channel>
 </rss>
